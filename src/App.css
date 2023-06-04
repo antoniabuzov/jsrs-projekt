@@ -1,0 +1,32 @@
+/* google fonts  */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* boje  */
+
+
+:root {
+    --orange: #e69419;
+    --white: #ffffff;
+    --WHITE: #ffffff;
+    --BLACK: #1f1f1f;
+    --black-90: #1a1a1a;
+    --black-70: #4d4d4d;
+    --black-alpha-40: rgba(0, 0, 0, 0.4);
+    --yellow-light: #fde7aa;
+    --green-light: #94ebcb;
+    --red-light: #f7a1a1;
+    --orange-light: #f7c0a1;
+    --select-box-bg-color: #fff;
+    --border-color: #e6e6e6;--main-color: #FF423D;
+    --button-hover-color: #E62B27;
+    --body-bg-color: #FCECF8;
+    --border-color-2: #F2E8ED;
+    --shadow: 0 0 18px #EBE5E9;
+    --body-gradient-bg-color-1: rgba(255, 66, 61, 0.2);
+    --body-gradient-bg-color-2: rgba(230, 0, 255, 0.2);
+    --decoration-bg-color-1: #FFA6B3;
+    --decoration-bg-color-2: #E6A6B3;
+}
+
+

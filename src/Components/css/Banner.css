@@ -1,0 +1,37 @@
+
+.banner-section {
+    padding: 80px 0;
+    min-height: 680px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-section h2 {
+    font-size: 20px;
+    color: var(--main-color);
+}
+
+.banner-text h1 {
+    font: 45px;
+    font-weight: 700;
+}
+
+.banner-section .circlular-img-circle {
+    background-color: var(--red-light);
+}
+
+
+/* img styling  */
+
+
+
+.circular-img {
+    max-width: 360px;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+}
+
+
+
+
